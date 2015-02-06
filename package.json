@@ -1,0 +1,30 @@
+{
+  "name": "react-ladda-bootstrap",
+  "version": "0.1.0",
+  "description": "ladda-bootstrap components build with React",
+  "homepage": "https://github.com/deleter8/react-ladda-bootstrap",
+  "main": "main.js",
+  "keywords": [
+    "react",
+    "ecosystem-react",
+    "react-component",
+    "bootstrap",
+    "ladda"
+  ],
+  "author": {
+    "name": "Rob Adams",
+    "email": "deleter8@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deleter8/react-ladda-bootstrap"
+  },
+  "bugs": {
+    "url": "https://github.com/deleter8/react-ladda-bootstrap/issues"
+  },
+  "peerDependencies": {
+    "react": ">=0.12",
+    "react-bootstrap":">=0.13"
+  }
+}
