@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/deleter8/react-ladda-bootstrap"
+    "url" : "https://github.com/deleter8/react-ladda-bootstrap"
   },
   "bugs": {
     "url": "https://github.com/deleter8/react-ladda-bootstrap/issues"
