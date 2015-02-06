@@ -23,6 +23,8 @@
   "bugs": {
     "url": "https://github.com/deleter8/react-ladda-bootstrap/issues"
   },
+  "readme":"# react-ladda-bootstrap-npm \n\n[ladda-bootstrap](http://msurguy.github.io/ladda-bootstrap/) components built with [React](http://facebook.github.io/react/)\n\nWas having issues getting react-ladda working seamlessly with react-bootstrap. This is based on react-ladda and uses ladda-bootstrap.\n\nNote: Still a heavy work in progress.",
+
   "peerDependencies": {
     "react": ">=0.12",
     "react-bootstrap":">=0.13"
